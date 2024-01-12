@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AbdulWahab321
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-
+** High school coder on a 3-year coding odyssey, weaving through Python, Rust, and beyond. Driven by a passion for AI/ML, I began my journey at 13, crafting web worlds with JavaScript and HTML, simulating granular wonders with C++ and SDL2, and now mastering Rust's precision for future intelligent machines. Each language a brush, each project a canvas—I'm painting possibilities in code, eager to collaborate and explore the frontiers of AI. ✨**
